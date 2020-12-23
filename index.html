@@ -8,7 +8,11 @@ header:
 author_profile: true
 ---
 <h1 id="page-title" class="page__title">Latest News</h1>
-<link rel="canonical" href="/activities/">
+
+
+{% for post in site.posts %}
+  {{ post }}
+{% endfor %}
 
 
    
