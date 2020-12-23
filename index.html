@@ -9,7 +9,7 @@ author_profile: true
 ---
 <h1 id="page-title" class="page__title">Latest News</h1>
 
-{% for item in _pages.year-archive.md %}
+{% for item in site.posts %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
   <p><a href="{{ item.url }}">{{ item.title }}</a></p>
