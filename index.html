@@ -10,7 +10,14 @@ author_profile: true
 <h1 id="page-title" class="page__title">Latest News</h1>
 
 
-{{ post.excerpt }}
+{% for site.activities %}
+  <li>
+
+    <h2>
+      {{ title }}
+    </h2>
+  </li>
+{% endfor %}
 
 
    
