@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /activities
+permalink: /
 header:
   overlay_color: "#000000"
   overlay_image: /assets/images/index-hero.jpg
@@ -9,7 +9,11 @@ author_profile: true
 ---
 <h1 id="page-title" class="page__title">Latest News</h1>
 
-
+{% for item in _pages.year-archive.md %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
 
 
 
