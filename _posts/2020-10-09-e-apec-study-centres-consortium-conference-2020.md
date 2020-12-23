@@ -5,8 +5,8 @@ date: 2020-09-30T08:50:15.311Z
 header:
   actions: []
 gallery:
-  - url: /assets/images/front.jpg
-    image_path: /assets/images/front.jpg
+  - url: /assets/images/asccc.jpg
+    image_path: /assets/images/asccc.jpg
     title: E-APEC Study Centres Consortium Conference 2020
     alt: Not Available.
 tags:
