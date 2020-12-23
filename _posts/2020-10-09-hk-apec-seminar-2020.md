@@ -14,8 +14,8 @@ gallery:
     image_path: /assets/images/jahk3.png
     title: Why free trade?
     alt: Not available.
-  - url: /assets/images/1.png
-    image_path: /assets/images/1.png
+  - url: /assets/images/jahk4.png
+    image_path: /assets/images/jahk4.png
     title: Current trends of HK Trade
     alt: Not available.
 tags:
