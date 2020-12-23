@@ -29,7 +29,7 @@ HK@APEC Seminar was held on Sept 26, 2020, by part of the [Hong Kong Committee f
 
 Prof. Travis NG was invited to deliver a talk titled ***Progress on regional economic cooperation and its implication for Hong Kong***, aiming to enhancing students’ awareness and understanding of regional trade and economic cooperation.
 
-![JAHK](/assets/images/5.png)
+![JAHK](/assets/images/jahk2.png)
 
 It is our honour to be part of this seminar and share our understanding with the students. We hereby appreciate the invitation from JA HK which organised such an inspiring and educative event for our youth. We would also like to take this opportunity to thank their staff, particularly Rita LI, for the help and support offered.
 
