@@ -10,23 +10,13 @@ author_profile: true
 <h1 id="page-title" class="page__title">Latest News</h1>
 
 {% for item in site.posts %}
-  <h2><p><a href="{{ item.url }}">{{ item.title }}</a></p></h2>
-  <p>{{ item.excerpt }}</p>
+  <h2><p><a href="{{ item.url }}">{{ item.title }}</a></h2>
+  {{ item.excerpt }}</p>
 {% endfor %}
 
 
 
-   
-      <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
-    <label class="sr-only" for="search">
-      Enter your search term...
-    </label>
-    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-  </form>
-  <div id="results" class="results"></div></div>
 
-      </div>
     
 
     <div id="footer" class="page__footer">
