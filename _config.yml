@@ -21,7 +21,7 @@ locale: "en-US"
 # twitter_username: username
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
-repository: "fdq09eca/asc-remake"
+repository: "econrc/erc_rework"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
