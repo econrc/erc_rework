@@ -11,7 +11,7 @@ author_profile: true
 <h1 id="page-title" class="page__title">Latest News</h1>
 
 {% for item in site.posts %}
-  <h2><p><a href="{{ item.url }}">{{ item.title }}</a></h2>
+  <p><h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
   {{ item.excerpt }}</p>
 {% endfor %}
 
