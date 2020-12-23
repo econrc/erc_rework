@@ -1,6 +1,6 @@
 ---
 title: "Activities by Year"
-permalink: /index.html
+permalink: /activities
 layout: posts
 author_profile: true
 ---
