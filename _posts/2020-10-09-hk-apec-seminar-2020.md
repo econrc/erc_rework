@@ -10,8 +10,8 @@ header:
   overlay_image: /assets/images/jahk1.png
   overlay_filter: 0.5
 gallery:
-  - url: /assets/images/2.png
-    image_path: /assets/images/2.png
+  - url: /assets/images/jahk3.png
+    image_path: /assets/images/jahk3.png
     title: Why free trade?
     alt: Not available.
   - url: /assets/images/1.png
