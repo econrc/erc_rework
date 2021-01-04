@@ -6,6 +6,8 @@ title: "About Us - Economic Research Centre"
 toc: true
 toc_label: Economics Research Centre
 author_profile: true
+excerpt: |
+  Part Of [HKIAPS](http://www.hkiaps.cuhk.edu.hk/eng/default.asp) - Since 1990
 # author: Travis Ng
 header:
   overlay_color: "#000000"
