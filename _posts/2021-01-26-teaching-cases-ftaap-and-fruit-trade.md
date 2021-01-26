@@ -19,4 +19,4 @@ categories:
   - FTAAP
 toc: false
 ---
-Reports of two teaching cases - *FTAAP* and *Fruit Trade* - are now available.
+Reports of two teaching cases - *[FTAAP](https://drive.google.com/file/d/1-H5ghMrKoe7hJLuKi72Fu0exBkKSLoIC/view?usp=sharing)* and *[Fruit Trade](https://drive.google.com/file/d/1jUzGnLTCOsyM5h_4vHB6V8Q3MgQB_0i0/view?usp=sharing)* - are now available.
