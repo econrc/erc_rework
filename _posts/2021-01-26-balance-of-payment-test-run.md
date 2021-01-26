@@ -11,6 +11,7 @@ header:
       url: "#"
 gallery:
   - url: /assets/images/{filename}
+    image_path: ""
 tags:
   - others
 categories:
