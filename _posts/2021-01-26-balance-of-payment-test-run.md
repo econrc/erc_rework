@@ -40,3 +40,5 @@ On the last Saturday (23 Jan 2020), we have successfully tested our teaching cas
 We recruited several students from other departments of CUHK to participate in this test run. With explanations after the game, the participants successfully understood the intuition of this teaching case. They have provided invaluable experiences and suggestions for our further development of the game design afterwards.
 
 We would like to appreciate all the works of our student helpers, the participations and suggestions of the subjects.
+
+{% include gallery caption='Selected photos of test run' %}
