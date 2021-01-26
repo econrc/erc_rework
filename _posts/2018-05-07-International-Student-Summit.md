@@ -1,14 +1,16 @@
 ---
 title: International Student Summit 2018
+excerpt: >
+  International Student Summit aims to bring together high schools and
+  universities from different economies, deepen understanding each others themes
+  and exchanging ideas so as to foster global perspectives and partnerships.
 date: 2018-05-10
-categories:
-  - APEC Study Centre
-  - Human Capital development
 tags:
   - event
   - ISS 2018
-excerpt: |
-  International Student Summit aims to bring together high schools and universities from different economies, deepen understanding each others themes and exchanging ideas so as to foster global perspectives and partnerships.
+categories:
+  - APEC Study Centre
+  - Human Capital Development
 ---
 {% include figure image_path="/assets/old_images/ISS_052018.jpg" %}
 
