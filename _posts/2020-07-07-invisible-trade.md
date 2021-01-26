@@ -31,7 +31,7 @@ tags:
   - Teaching cases
 categories:
   - APEC Study Centre
-  - Human Capital development
+  - Human Capital Development
 toc: false
 ---
 # Introduction
