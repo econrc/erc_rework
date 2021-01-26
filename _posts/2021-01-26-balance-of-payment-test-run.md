@@ -25,7 +25,7 @@ gallery:
     alt: Not available.
     title: Participants
 tags:
-  - teaching cases
+  - Teaching cases
   - test run
   - Balance of Payment
 categories:
