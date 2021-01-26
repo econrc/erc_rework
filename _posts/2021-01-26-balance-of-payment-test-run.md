@@ -14,6 +14,10 @@ gallery:
     image_path: /assets/images/bop_helper.jpg
     alt: Not available.
     title: Our student helpers
+  - url: /assets/images/bop3.jpg
+    image_path: /assets/images/bop3.jpg
+    alt: Not available.
+    title: Participants
 tags:
   - others
 categories:
