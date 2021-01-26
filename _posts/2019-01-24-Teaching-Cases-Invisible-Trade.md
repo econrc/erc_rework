@@ -36,7 +36,7 @@ tags:
   - Invisible trade
 categories:
   - APEC Study Centre
-  - Human Capital development
+  - Human Capital Development
 toc: true
 toc_label: Invisible Trade test run
 ---
