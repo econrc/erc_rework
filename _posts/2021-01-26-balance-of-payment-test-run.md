@@ -33,7 +33,7 @@ categories:
   - Human Capital Development
 toc: false
 ---
-On the last Saturday (23 Jan 2020), we have successfully tested our teaching case - *Balance of Payment*. The aim of this test run is to examine whether our game design of this teaching case is effective to deliver the message behind.
+On the last Saturday (23 Jan 2021), we have successfully tested our teaching case - *Balance of Payment*. The aim of this test run is to examine whether our game design of this teaching case is effective to deliver the message behind.
 
 *Balance of Payment* is a teaching case that introduces *Current Account* and *Capital Account*. *Current Account* refers to the trade of goods and services, and *Capital Account* refers to the exchange of money and certificates. In international trade, these two accounts are balanced in nature. If we have a trade surplus (Exports > Imports, *Current Account* deficit), it means simultaneously we have capital inflow (*Capital Account* surplus). It is because we sell more of our goods and services to other countries (deduction in *Current Account*), but we earn more money from selling these goods and services (gain in *Capital Account*). No matter how many trades we will have, the values of these two accounts should be the same. Thus, it is called *Balance of Payment*.
 
