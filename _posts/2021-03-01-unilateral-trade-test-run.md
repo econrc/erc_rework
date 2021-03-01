@@ -36,4 +36,12 @@ categories:
   - Human Capital Development
 toc: false
 ---
-A
+Our student helper team has conducted a test run on their game -- Unilateral Trade -- on the last Saturday, 27 February 2021. The test run was to examine the game design and whether the messages behind can be effectively delivered. 
+
+Unilateral Trade
+
+The game ran smoothly and the participants actively interacted with each other during the game. The participants were recruited from CUHK. Most of them have not learnt Economics before. With the explanations of concepts after the game, the participants fully understood the intuition of this teaching case. They have also provided invaluable experiences and suggestions for our further development of the game design afterwards.
+
+We would like to appreciate all the works of our student helpers, the participations and suggestions of the subjects.
+
+{% include gallery caption='Selected photos of test run' %}
