@@ -38,7 +38,7 @@ toc: false
 ---
 Our student helper team has conducted a test run on their game -- Unilateral Trade -- on the last Saturday, 27 February 2021. The test run was to examine the game design and whether the messages behind can be effectively delivered. 
 
-Unilateral Trade
+Unilateral Trade is a teaching case for promoting trade liberalisation. When it comes to international trade, in Economics perspective, trade liberalisation is a more effective and efficient policy than imposing tariff or quota. Having any kinds of trade barrier would eventually harm society. Thus, in most of the cases, economists prefer liberalisation on trade to trade barriers. The student helpers designed the game based on these concepts.
 
 The game ran smoothly and the participants actively interacted with each other during the game. The participants were recruited from CUHK. Most of them have not learnt Economics before. With the explanations of concepts after the game, the participants fully understood the intuition of this teaching case. They have also provided invaluable experiences and suggestions for our further development of the game design afterwards.
 
