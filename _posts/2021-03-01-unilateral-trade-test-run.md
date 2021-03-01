@@ -11,11 +11,29 @@ header:
       url: "#"
   overlay_image: /assets/images/ut_header.png
 gallery:
-  - url: /assets/images/{filename}
+  - url: /assets/images/ut_student_helper.JPG
+    image_path: /assets/images/ut_student_helper.jpg
+    title: Our student helper illustrating the game
+    alt: NA
+  - url: /assets/images/ut_1.JPG
+    image_path: /assets/images/ut_1.jpg
+    alt: Not available.
+    title: Participants
+  - url: /assets/images/ut_2.JPG
+    image_path: /assets/images/ut_2.jpg
+    title: Participants
+    alt: Not available.
+  - url: /assets/images/ut_4.JPG
+    image_path: /assets/images/ut_4.jpg
+    title: Participants
+    alt: Not available.
 tags:
-  - others
+  - Unilateral Trade
+  - Teaching cases
+  - test run
 categories:
-  - ASC
+  - APEC Study Centre
+  - Human Capital Development
 toc: false
 ---
 A
