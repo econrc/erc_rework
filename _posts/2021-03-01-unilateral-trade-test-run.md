@@ -10,6 +10,7 @@ header:
     - label: Read More
       url: "#"
   overlay_image: /assets/images/ut_header.png
+  overlay_filter: 0.5
 gallery:
   - url: /assets/images/ut_student_helper.JPG
     image_path: /assets/images/ut_student_helper.jpg
