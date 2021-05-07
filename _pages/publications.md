@@ -26,4 +26,4 @@ sidebar:
 
 # Recent Publications
 
-<!-- publications list sort by categories below -->
+<!-- publications list sort by date below -->
