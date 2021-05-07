@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 # class: wide
-title: "About Us - Economic Research Centre"
+title: "About Economic Research Centre"
 # tagline: ""
 toc: true
 toc_label: Economics Research Centre
@@ -14,8 +14,8 @@ header:
   overlay_image: assets/images/erc-about.jpg
   overlay_filter: 0.5
   actions:
-    - label: "About ERC"
-      url: "/about/"
+    #- label: "About ERC"
+    #  url: "/about/"
     - label: "About ASC"
       url: "/asc/"
 sidebar:
