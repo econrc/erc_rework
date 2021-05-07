@@ -13,8 +13,10 @@ header:
     #  url: "/asc/"
     # - label: "Latest News"
     #   url: "/activities/"
-    - lable: "Publications"
+    - label: "Publications"
       url: "/publications/"
+    - label: "Teaching cases"
+      url: "/tc/"
 title: APEC Study Centre
 excerpt: |
   commissioned by [TID, HKGov](https://www.tid.gov.hk/eindex.html) from 2016-2021
