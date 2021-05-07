@@ -1,10 +1,10 @@
 main:
-  - title: "About ERC"
+  - title: "Economic Research Centre"
     url: /about/
   - title: "APEC Study Centre"
     url: /asc/
-  - title: "ISS 2021"
-    url: /iss2021/
+  - title: "Events"
+    url: /activities/
   #- title: "Latest News"
   #  url: /activities/
   #- title: "Publications"
