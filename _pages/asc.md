@@ -7,12 +7,14 @@ header:
   caption: "Photo credit: CNA"
   overlay_filter: 0.8
   actions:
-    - label: "About ERC"
-      url: "/about/"
-    - label: "About ASC"
-      url: "/asc/"
+    #- label: "About ERC"
+    #  url: "/about/"
+    #- label: "About ASC"
+    #  url: "/asc/"
     # - label: "Latest News"
     #   url: "/activities/"
+    - lable: "Publications"
+      url: "/publications/"
 title: APEC Study Centre
 excerpt: |
   commissioned by [TID, HKGov](https://www.tid.gov.hk/eindex.html) from 2016-2021
