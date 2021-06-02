@@ -1,6 +1,9 @@
 ---
 layout: single
 title: Private International Law
+excerpt: When we have a trade dispute in international trade, how could we deal
+  with it? Are there any principles we could follow? Here we have an article to
+  introduce Conflict of laws which addresses such issues.
 date: 2021-05-01T02:25:47.548Z
 header:
   actions:
