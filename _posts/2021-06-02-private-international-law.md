@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Private International Law
-date: 2021-06-02T02:25:47.548Z
+date: 2021-05-01T02:25:47.548Z
 header:
   actions:
     - label: Read More
@@ -9,9 +9,11 @@ header:
 gallery:
   - url: /assets/images/{filename}
 tags:
-  - others
+  - Conflict of laws
+  - United Nations Convention on Contracts for the Sale of International Goods
+  - Hong Kong Sales of Goods Ordinance
 categories:
-  - ASC
+  - Economic Research Centre
 toc: false
 ---
 In international trade, conflicts arise because of different systems of commercial law in various countries, which leads to the so-called **conflict of laws**.
