@@ -148,50 +148,48 @@ The buyer's obligation is generally to receive the goods on time and in the spec
 
 The buyer must pay the price and receive the goods in accordance with the terms of the contract and the convention. In terms of payment of the price:
 
-##### 2.1 If the buyer is not obliged to pay the price at any other place, he must pay the seller the price at:
+I. If the buyer is not obliged to pay the price at any other place, he must pay the seller the price at:
 
-I. seller's place of business, or
+i. seller's place of business, or
 
-II. If the price is paid on the basis of the transfer of the goods or documents, the place at which the goods or documents are handed over.
+ii. If the price is paid on the basis of the transfer of the goods or documents, the place at which the goods or documents are handed over.
 
-##### 2.2 The seller must bear the costs associated with the increase in the payment of changes in its place of business following the conclusion of the contract. 
+II. The seller must bear the costs associated with the increase in the payment of changes in its place of business following the conclusion of the contract. 
 
 Or
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the buyer is not obliged to pay the price at any other specified time, he must pay the price when the seller hands over the goods or the documents controlling the disposition of the goods to the buyer in accordance with the contract and this Convention. The seller may pay the price as a condition for the transfer of the goods or documents.
+I. If the buyer is not obliged to pay the price at any other specified time, he must pay the price when the seller hands over the goods or the documents controlling the disposition of the goods to the buyer in accordance with the contract and this Convention. The seller may pay the price as a condition for the transfer of the goods or documents.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the contract relates to the carriage of goods, the seller may, after paying the price, transfer the goods or documents controlling the disposition of the goods to the buyer as a condition for the shipment of the goods.
+II. If the contract relates to the carriage of goods, the seller may, after paying the price, transfer the goods or documents controlling the disposition of the goods to the buyer as a condition for the shipment of the goods.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The buyer is under no obligation to pay the price until there is an opportunity to inspect the goods, unless such an opportunity conflicts with the delivery or payment procedures agreed upon by the parties.
+III. The buyer is under no obligation to pay the price until there is an opportunity to inspect the goods, unless such an opportunity conflicts with the delivery or payment procedures agreed upon by the parties.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->In terms of receiving goods:
+In terms of receiving goods:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Take all expected actions with a view to enabling the seller to deliver the goods. and
+I. Take all expected actions with a view to enabling the seller to deliver the goods. and
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Accept the goods.
+II. Accept the goods.
 
-***The Hong Kong Sale of Goods Ordinance*** states that:
+**The Hong Kong Sale of Goods Ordinance** states that:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->"Unless otherwise agreed, the delivery of the goods and the payment of the price are on a convective condition, i.e. the seller must prepare the goods and voluntarily transfer them to the buyer in exchange for payment, while the buyer must prepare the price and voluntarily pay them to the seller in exchange for the goods."
+*"Unless otherwise agreed, the delivery of the goods and the payment of the price are on a convective condition, i.e. the seller must prepare the goods and voluntarily transfer them to the buyer in exchange for payment, while the buyer must prepare the price and voluntarily pay them to the seller in exchange for the goods."*
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->At the same time, there are clear provisions on the buyer's obligation to receive the goods:
+At the same time, there are clear provisions on the buyer's obligation to receive the goods:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->"When the goods are delivered to the buyer, if he has not previously inspected the goods, he cannot be considered to have accepted the goods unless he has a reasonable opportunity to test them to determine whether they are in conformity with the contract."
+*"When the goods are delivered to the buyer, if he has not previously inspected the goods, he cannot be considered to have accepted the goods unless he has a reasonable opportunity to test them to determine whether they are in conformity with the contract.*
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Unless otherwise agreed, when the seller offers delivery to the buyer, at the buyer's request, the seller shall provide the buyer with a reasonable time to examine the goods in order to determine compliance with the terms of the contract. 」
+Unless otherwise agreed, when the seller offers delivery to the buyer, at the buyer's request, the seller shall provide the buyer with a reasonable time to examine the goods in order to determine compliance with the terms of the contract."
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->From the above-mentioned provisions, the provisions of the United Nations Convention are basically consistent.
+From the above-mentioned provisions, the provisions of the United Nations Convention are basically consistent.
 
-**Remedies for breach of contracts**
+### **D. Remedies for breach of contracts**
 
-***United Nations Convention on Contracts for the Sale of International Goods***:
+**United Nations Convention on Contracts for the Sale of International Goods**:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->There are two categories of breach, namely Fundamental breach and Non-fundamental breach. The former injured party may claim the cancellation of the contract, while the (latter) injured party may claim damages or other remedies, not the cancellation of the contract
+There are two categories of breach, namely **Fundamental breach** and **Non-fundamental breach**. The former injured party may claim the cancellation of the contract, while the latter injured party may claim damages or other remedies, not the cancellation of the contract
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->What is a fundamental breach of contract? According to the United Nations Covenant, "if a party breaches the contract as a result of a loss suffered by the other party, thereby effectively depriving him of what he is entitled to expect under the terms of the contract, that is, a fundamental breach of contract ... " Non-compliance with this standard is called a non-fundamental breach of contract. For non-fundamental breach of contract, the injured party may claim damages.
+What is a fundamental breach of contract? According to the United Nations Covenant, "*if a party breaches the contract as a result of a loss suffered by the other party, thereby effectively depriving him of what he is entitled to expect under the terms of the contract, that is, a fundamental breach of contract ..."* Non-compliance with this standard is called a non-fundamental breach of contract. For non-fundamental breach of contract, the injured party may claim damages.
 
-***The Hong Kong Sale of Goods Ordinance***:
+**The Hong Kong Sale of Goods Ordinance**:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Breaches are classified differently, i.e. by terms of contract, into \*\*Condition\*\* and \*\*Warranty\*\*.  If the conditions are violated, the injured party may claim the cancellation of the contract; (If the warrant violated, the injured party can only claim damages, but not cancellation of contract.) This classification is very different from the United Nations Convention.
-
-<!--EndFragment-->
+Breaches are classified differently, i.e. by terms of contract, into **Condition** and **Warranty**.  If the conditions are violated, the injured party may claim the cancellation of the contract; if the warrant violated, the injured party can only claim damages, but not cancellation of contract. This classification is very different from the United Nations Convention.
