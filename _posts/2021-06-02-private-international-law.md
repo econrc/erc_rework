@@ -24,7 +24,7 @@ For example, following the laws of United Kingdom, Hong Kong laws argue that an 
 
 If the parties have conflict on whether the offer can be withdrawn, with a variety of legal claims across different countries, litigation in different countries may lead to completely different results. In order to avoid such an outcome, in the long-term practice of international trade, there are also some principles to resolve these conflicts of laws. These principles are:
 
-### **Choosing the legal clause**
+### **A. Choosing the legal clause**
 
 The principle of **choosing the legal clause** refers to: to avoid conflicts in the contract between the parties, an agreement must be made before signing the contract regarding what law will be used when there is a dispute. The agreement is referred to as the **applicable law clause**. For example, "*This contract shall be governed by The Laws of Hong Kong*". Then the law of Hong Kong is the sole basis for resolving the dispute over the contract.
 
@@ -32,51 +32,41 @@ However, in order to prevent businessmen from abusing such provisions for obtain
 
 For example, it is unlawful to make a legal choice aiming at tax evasion or evasion of legal control, then the court could declare the choice null and void on the basis of established evidence. This is often the case when a party attempts to violate laws or decrees on taxes ~~law~~, import and export quotas, import and export bans, foreign exchange controls, etc. in order to obtain illegal and improper benefits.
 
-**Choosing the law most closely related to the contract**
+### **B. Choosing the law most closely related to the contract**
 
-When the parties ~~to a trade contract are chosen to~~ have a dispute over a trade contract~~,~~ ~~and when~~ ~~the contract~~ which does not provide for a choice clause, (according to the international conflict of laws,) the law most closely related to the contract ~~is~~ (will be) chosen ~~in accordance with the conflict rules of international law~~, ~~including~~ (such as) the law of the place where the contract was concluded, the law of the place where the contract was performed, the law of the place of arbitration, and so on.
+When the parties have a dispute over a trade contract which does not provide for a choice clause, according to the international conflict of laws, the law most closely related to the contract will be chosen, such as the law of the place where the contract was concluded, the law of the place where the contract was performed, the law of the place of arbitration, and so on.
 
-Which national law is most closely related to the contract? It should be determined by analysing all relevant circumstances of the contract. In making such a judgement, the Tribunal generally has many factors to consider, including where to conclude the contract, where to perform the contract, where to arbitrate, ~~the~~ (which) letter and form (to be) used in the contract and (what) ~~the~~ content of the terms ~~of the contract~~ (should include)~~,~~ . ~~but t~~ The most common cases are:
+Which national law is most closely related to the contract? It should be determined by analysing all relevant circumstances of the contract. In making such a judgement, the Tribunal generally has many factors to consider, including where to conclude the contract, where to perform the contract, where to arbitrate, which letter and form to be used in the contract and what content of the terms should include. The most common cases are:
 
-<!--\\[if !supportLists]-->\*\*1.\*\*        <!--\\[endif]-->\*\*The presumption of the (law) applicable \~\~contracting law\~\~ (to place of contracting)\*\*
+#### **1. The presumption of the law applicable to place of contracting**
 
-The current private international law generally assumes that if the parties entered into ~~the~~ (a) contract at the same (country) ~~place~~ ~~and the place~~ (as) where the contract ~~was~~ (is) performed ~~in the same country~~, the **Form of the contract**, the **Construction of contract**, and the **Effectiveness of contract** may be presumed to be governed by the law of that ~~S~~ state.
+The current private international law generally assumes that if the parties entered into a contract at the same country as where the contract is performed, the **Form of the contract**, the **Construction of contract**, and the **Effectiveness of contract** may be presumed to be governed by the law of that state.
 
-<!--\\[if !supportLists]-->\*\*2.\*\*        <!--\\[endif]-->\*\*The presumption of the (law) applicable (to the) place of performance \~\~law\~\~\*\*
+#### 2. The presumption of the law applicable to the place of performance 
 
-If the place of contract formation is not in the same ~~State~~ as the place of (the) ~~performance of~~ (executing) the contract, in the event of a dispute relating to ~~performance~~ (the fulfillment), the law applicable to the place of ~~performance~~ (execution) ~~shall~~ (is) generally ~~be~~ presumed.\
+If the place of contract formation is not in the same as the place of the executing the contract, in the event of a dispute relating to the fulfillment, the law applicable to the place of execution is generally presumed.
 
-<!--\\[if !supportLineBreakNewLine]-->\
+#### 3. The presumption of the law applicable to the place of arbitration
 
-<!--\\[endif]-->
+If the parties have entered into an arbitration agreement, from which they may determine the place of arbitration, when dealing with dispute, unless otherwise specified, it may use the law applicable to the place of arbitration.
 
-<!--\\[if !supportLists]-->\*\*3.\*\*        <!--\\[endif]-->\*\*The presumption of the law applicable to the place of arbitration\*\*
 
-If the parties have entered into an arbitration agreement, (from which) they may determine ~~from the arbitration agreement~~ the place of arbitration, ~~and in the course of~~ (when) dealing with ~~the~~ dispute, unless otherwise ~~provided~~ (specified), (it) may ~~extend~~ (use) the law applicable to the place of arbitration.\
 
-<!--\\[if !supportLineBreakNewLine]-->\
+#### **C. United Nations Convention on Contracts for the Sale of International Goods - CISG**
 
-<!--\\[endif]-->
+This Convention was adopted by the United Nations Commission on International Trade Law at the General Assembly in Vienna, with more than 80 countries representatives. By March 1990, the number of parties had increased to twenty-six, including Argentina, Egypt, Hungary, Lesotho, Syria, Yugoslavia, Zambia, Italy, the United States, the People's Republic of China, Australia, Austria, Denmark, Mexico, Norway, Sweden, the former German Democratic Republic, the former Belarus, Chile, the former Federal Republic of Germany, Iraq, Switzerland and Ukraine, etc. China is one of the parties, thus the Convention will also apply to Hong Kong after 1 July 1997.
 
-***United Nations Convention on Contracts for the Sale of International Goods - CISG***\
-\
-~~It~~ (This Convention) was adopted by the United Nations Commission on International Trade Law at the General Assembly in Vienna, with ~~the participation of representatives of more than 80 countries~~ (more than 80 countries representatives.)~~, and b~~ (B)y March 1990(,) the number of ~~States~~ parties had increased to twenty-six, including Argentina, Egypt, Hungary, Lesotho, Syria, Yugoslavia, Zambia, Italy, the United States, the People's Republic of China, Australia, Austria, Denmark, Mexico, Norway, Sweden, the former German Democratic Republic, the former Belarus, Chile, the former Federal Republic of Germany, Iraq, Switzerland and Ukraine, etc. China is ~~a party to the Convention~~ (one of the parties), ~~which~~ thus the Convention will also apply to Hong Kong after 1 July 1997.
+The main obligation of seller is to deliver products while for buyer it is to pay the price. The provisions of the United Nations Convention are compared with the Hong Kong Trade in Goods Ordinance as follows:
 
-~~The seller's main obligation is delivery and the buyer's main obligation is to pay~~. (The main obligation of seller is to deliver products while for buyer it is to pay the price.) The provisions of the United Nations Convention are compared with ~~20s in~~ the Hong Kong Trade in Goods Ordinance as follows:\
+Obligations of sellers
 
-<!--\\[if !supportLineBreakNewLine]-->\
+Time of delivery
 
-<!--\\[endif]-->
+**The United Nations Convention on Contracts for the Sale of International Goods** states that:
 
-**Obligations of sellers**
+I. If the contract of sale involves the transportation of the goods, the seller shall hand the products over to the first carrier for delivery to the buyer.
 
-***Time of delivery***
-
-***The United Nations Convention on Contracts for the Sale of International Goods*** states that:
-
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the contract of sale \~\~relates to\~\~ (involves) the \~\~carriage\~\~ (transportation) of the goods, the seller shall hand \~\~them\~\~ (the products) over to the first carrier for delivery to the buyer.
-
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the goods \~\~specified\~\~ in the contract are (either) specific goods \~\~or\~\~ (which) are extracted from a particular inventory or unspecified goods to be manufactured or produced, \~\~and the parties at the time of the contract knew that they were at a particular place or would be manufactured or produced at a particular place\~\~ (with a particular place specified at the time of contract or a specified place for manufacturing or producing), the seller \~\~shall\~\~ (should) place the goods at (that particular place at) the disposal of the buyer \~\~at that place\~\~.
+II. If the goods in the contract are either specific goods which are extracted from a particular inventory or unspecified goods to be manufactured or produced, with a particular place specified at the time of contract or a specified place for manufacturing or producing, the seller should place the goods at that particular place at the disposal of the buyer.
 
 <!--\\[if !supportLists]-->l   <!--\\[endif]-->In other cases, the seller should \~\~have placed\~\~ (deliver) the goods (to his/her business address when they made the contract) \~\~at the buyer's disposal\~\~ \~\~at the place of business at the time of his conclusion of the contract\~\~.
 
