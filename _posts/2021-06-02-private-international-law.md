@@ -58,9 +58,9 @@ This Convention was adopted by the United Nations Commission on International Tr
 
 The main obligation of seller is to deliver products while for buyer it is to pay the price. The provisions of the United Nations Convention are compared with the Hong Kong Trade in Goods Ordinance as follows:
 
-Obligations of sellers
+##### 1. Obligations of sellers
 
-Time of delivery
+###### 1.1 Time of delivery
 
 **The United Nations Convention on Contracts for the Sale of International Goods** states that:
 
@@ -68,23 +68,23 @@ I. If the contract of sale involves the transportation of the goods, the seller 
 
 II. If the goods in the contract are either specific goods which are extracted from a particular inventory or unspecified goods to be manufactured or produced, with a particular place specified at the time of contract or a specified place for manufacturing or producing, the seller should place the goods at that particular place at the disposal of the buyer.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->In other cases, the seller should \~\~have placed\~\~ (deliver) the goods (to his/her business address when they made the contract) \~\~at the buyer's disposal\~\~ \~\~at the place of business at the time of his conclusion of the contract\~\~.
+III. In other cases, the seller should deliver the goods to his/her business address when they made the contract.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the contract provides for a date, or if a date can be determined from the contract, delivery should be made on that date. If the contract has a period of time, or if a period can be determined from the contract, delivery should be made at any time during that period. If no time is set, delivery is made within a reasonable period of time.
+IV. If the contract provides for a date, or if a date can be determined from the contract, delivery should be made on that date. If the contract has a period of time, or if a period can be determined from the contract, delivery should be made at any time during that period. If no time is set, delivery is made within a reasonable period of time.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the seller is obliged to hand over documents relating to the goods, he(/she) must hand them over in accordance with the time, place and manner specified in the contract.
+V. If the seller is obliged to hand over documents relating to the goods, he/ she must hand them over in accordance with the time, place and manner specified in the contract.
 
-***The Hong Kong Sale of Goods Ordinance*** states that:
+**The Hong Kong Sale of Goods Ordinance** states that:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The place of delivery \~\~shall\~\~ (is) generally \~\~be\~\~ the seller's place of business \~\~and, in the absence of a place of business,\~\~ (, or) the seller's residence (in the absence of a business place). If \~\~the subject matter of the contract of sale\~\~ (it) is a specific item (in the contract) and (at the time of the contract) both parties are aware \~\~at the time of the contract\~\~ that the goods are stored in a place \~\~of origin\~\~, delivery shall be made at \~\~the place of original storage\~\~ (that storage place).
+I. The place of delivery is generally the seller's place of business, or the seller's residence in the absence of a business place. If it is a specific item in the contract and at the time of the contract both parties are aware that the goods are stored in a place, delivery shall be made at that storage place.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the contract stipulates that the seller must deliver the goods to the buyer, but does not specify the time of delivery, the seller \~\~shall perform them\~\~ (should deliver the goods) within a reasonable time.
+II. If the contract stipulates that the seller must deliver the goods to the buyer, but does not specify the time of delivery, the seller should deliver the goods within a reasonable time.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the goods were under the control of a third party at the time of sale, the seller could not be considered to have delivered the goods unless the third party admitted to the buyer that he was keeping the goods on behalf of the buyer.
+III. If the goods were under the control of a third party at the time of sale, the seller could not be considered to have delivered the goods unless the third party admitted to the buyer that he was keeping the goods on behalf of the buyer.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The request for delivery or receipt must be made within a reasonable time.
+IV. The request for delivery or receipt must be made within a reasonable time.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Unless otherwise specified, the cost of placing the goods in a deliverable state shall be borne by the seller.
+V. Unless otherwise specified, the cost of placing the goods in a deliverable state shall be borne by the seller.
 
 ***Quantity of delivery***
 
