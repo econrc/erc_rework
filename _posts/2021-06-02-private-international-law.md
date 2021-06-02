@@ -52,15 +52,15 @@ If the parties have entered into an arbitration agreement, from which they may d
 
 
 
-#### **C. United Nations Convention on Contracts for the Sale of International Goods - CISG**
+### **C. United Nations Convention on Contracts for the Sale of International Goods - CISG**
 
 This Convention was adopted by the United Nations Commission on International Trade Law at the General Assembly in Vienna, with more than 80 countries representatives. By March 1990, the number of parties had increased to twenty-six, including Argentina, Egypt, Hungary, Lesotho, Syria, Yugoslavia, Zambia, Italy, the United States, the People's Republic of China, Australia, Austria, Denmark, Mexico, Norway, Sweden, the former German Democratic Republic, the former Belarus, Chile, the former Federal Republic of Germany, Iraq, Switzerland and Ukraine, etc. China is one of the parties, thus the Convention will also apply to Hong Kong after 1 July 1997.
 
 The main obligation of seller is to deliver products while for buyer it is to pay the price. The provisions of the United Nations Convention are compared with the Hong Kong Trade in Goods Ordinance as follows:
 
-##### 1. Obligations of sellers
+#### 1. Obligations of sellers
 
-###### 1.1 Time of delivery
+##### 1.1 Time of delivery
 
 **The United Nations Convention on Contracts for the Sale of International Goods** states that:
 
@@ -86,87 +86,77 @@ IV. The request for delivery or receipt must be made within a reasonable time.
 
 V. Unless otherwise specified, the cost of placing the goods in a deliverable state shall be borne by the seller.
 
-***Quantity of delivery***
+##### **1.2 Quantity of delivery**
 
-***The United Nations Convention on Contracts for the International Sale of Goods*** provides that:
+**The United Nations Convention on Contracts for the International Sale of Goods** provides that:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The quantity delivered by the seller must be in accordance with the contract, and if the quantity of goods delivered by the seller is greater than the quantity stipulated in the contract, the buyer may collect the county division in accordance with the contract\~\~,\~\~  (and) refuse to collect the county division exceeding the contract, or collect the goods in whole, but (pay for the) \~\~in\~\~ excess of the contract\~\~, payment must be made\~\~ at the price stipulated in the contract.
+The quantity delivered by the seller must be in accordance with the contract, and if the quantity of goods delivered by the seller is greater than the quantity stipulated in the contract, the buyer may collect the county division in accordance with the contract and refuse to collect the county division exceeding the contract, or collect the goods in whole, but pay for the excess of the contract at the price stipulated in the contract.
 
-***The Hong Kong Sale of Goods Ordinance*** states that:
+**The Hong Kong Sale of Goods Ordinance** states that:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the quantity of goods delivered by the seller is less than the agreed quantity, the buyer may refuse to receive the goods, but \~\~if the buyer receives them, it must pay the\~\~ the buyer should pay the agreed price if receiving the goods.
+I. If the quantity of goods delivered by the seller is less than the agreed quantity, the buyer may refuse to receive the goods, but the buyer should pay the agreed price if receiving the goods.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the seller delivers more goods than agreed, the buyer may accept the agreed part and refuse the (extra) portion, or reject it all.
+II. If the seller delivers more goods than agreed, the buyer may accept the agreed part and refuse the extra portion, or reject it all.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Point ii of the Hong Kong Goods Ordinance is inconsistent with most regional and United Nations conventions and is also a common law national provision. If the contract is strictly enforced, that makes sense. If from a realistic point of view, it is inevitable that it is reasonable. Such a provision is therefore inflexible.\
+III. Point ii of the Hong Kong Goods Ordinance is inconsistent with most regional and United Nations conventions and is also a common law national provision. If the contract is strictly enforced, that makes sense. If from a realistic point of view, it is inevitable that it is reasonable. Such a provision is therefore inflexible.
 
-<!--\\[if !supportLineBreakNewLine]-->\
+##### **1.3 Quality of delivery**
 
-<!--\\[endif]-->
+**The United Nations Convention on Contracts for the International Sale of Goods** states that:
 
-***Quality of delivery***
+1. The goods delivered by the seller must be in accordance with the quantity, quality and specifications specified in the contract and shall be boxed or packed in the manner specified in the contract.
 
-***The United Nations Convention on Contracts for the International Sale of Goods*** states that:
+II. Unless otherwise agreed by the parties, the goods are incompatible with the contract unless they meet the following requirements:
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The goods delivered by the seller must be in accordance with the quantity, quality and specifications specified in the contract and shall be \~\~packed\~\~ (boxed) or packed in the manner specified in the contract.
+a. The goods apply to the purposes commonly used by the goods with the same specification.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Unless otherwise agreed by the parties, the goods are incompatible with the contract unless they meet the following requirements:
+b. The goods apply to any special purpose for which the seller was notified, expressly or implicitly, at the time of the conclusion of the contract.
 
-<!--\\[if !supportLists]-->A.      <!--\\[endif]-->The goods apply to the purposes (commonly used by) \~\~for which\~\~ the goods \~\~of\~\~ (with) the same specification \~\~are commonly used\~\~.
+c. The quality of the goods is the same as the sample or style provided to the buyer by the seller.
 
-<!--\\[if !supportLists]-->B.       <!--\\[endif]-->The goods apply to any special purpose for which the seller was notified, expressly or implicitly, at the time of the conclusion of the contract.
+**The Hong Kong Sale of Goods Ordinance** states that:
 
-<!--\\[if !supportLists]-->C.       <!--\\[endif]-->The quality of the goods is the same as the sample or style provided to the buyer by the seller.\
+I. Contracts for the sale and sale of samples shall contain an implied condition, including:
 
-<!--\\[if !supportLineBreakNewLine]-->\
+a. The goods delivered by the seller shall conform to the sample in quality.
 
-<!--\\[endif]-->
+b. There can be no imperfections that are not commercially available.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->\*\*\*The Hong Kong Sale of Goods Ordinance\*\*\* states that:
+c. A contract stating the sale and purchase shall contain an implied condition that the goods shall be consistent with the description.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Contracts for the sale and sale of samples shall contain an implied condition, including:
+##### **1.4 Guarantee of rights in goods**
 
-<!--\\[if !supportLists]-->A.      <!--\\[endif]-->The goods delivered by the seller shall conform to the sample in quality.
+**The United Nations Convention on Contracts for the International Sale of Goods** states that:
 
-<!--\\[if !supportLists]-->B.       <!--\\[endif]-->There can be no imperfections that are not commercially available.
+The guarantee of the seller's rights is primarily that the goods delivered by the seller must be goods that a third party cannot claim or claim. At the same time, the seller delivers the goods unless the buyer agrees to take them under such rights or claims. At the same time, the goods delivered by the seller must be goods that a third party cannot claim any rights or claims under industrial or other intellectual property rights, to the extent that the seller knew or could not have been unaware of at the time of the conclusion of the contract.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->A contract stating the sale and purchase shall contain an implied condition that the goods shall be consistent with the description.\
+**The Hong Kong Sale of Goods Ordinance** states that:
 
-<!--\\[if !supportLineBreakNewLine]-->\
+I. Its provisions are similar to those of the United Nations Convention and are primarily guaranteed by the seller in three areas:
 
-<!--\\[endif]-->
+II. The seller guarantees ownership of the goods it sells, i.e. possession, use and disposal.
 
-***Guarantee of rights in goods***
+III. Seller warrants that there is no security interest, lien or other burden on the goods delivered.
 
-***The United Nations Convention on Contracts for the International Sale of Goods*** states that:
+IV. The seller guarantees that the goods sold by it do not infringe the rights of any third party, mainly industrial and other intellectual property rights.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The guarantee of the seller's rights is primarily that the goods delivered by the seller must be goods that a third party cannot claim or claim. At the same time, the seller delivers the goods unless the buyer agrees to take them under such rights or claims. At the same time, the goods delivered by the seller must be goods that a third party cannot claim any rights or claims under industrial or other intellectual property rights, to the extent that the seller knew or could not have been unaware of at the time of the conclusion of the contract.
+#### **2. Obligations of buyers**
 
-***The Hong Kong Sale of Goods Ordinance*** states that:
+The buyer's obligation is generally to receive the goods on time and in the specified manner and to pay the agreed price.
 
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->Its provisions are similar to those of the United Nations Convention and are primarily guaranteed by the seller in three areas:
+**The United Nations Convention on Contracts for the International Sale of Goods** states that:
 
-<!--\\[if !supportLists]-->A.      <!--\\[endif]-->The seller guarantees ownership of the goods it sells, i.e. possession, use and disposal.
+The buyer must pay the price and receive the goods in accordance with the terms of the contract and the convention. In terms of payment of the price:
 
-<!--\\[if !supportLists]-->B.       <!--\\[endif]-->Seller warrants that there is no security interest, lien or other burden on the goods delivered.
+##### 2.1 If the buyer is not obliged to pay the price at any other place, he must pay the seller the price at:
 
-<!--\\[if !supportLists]-->C.       <!--\\[endif]-->The seller guarantees that the goods sold by it do not infringe the rights of any third party, mainly industrial and other intellectual property rights.
+I. seller's place of business, or
 
-**Obligations of buyers**
+II. If the price is paid on the basis of the transfer of the goods or documents, the place at which the goods or documents are handed over.
 
-The buyer's obligation is generally to receive the goods on time and in the (specified) manner ~~specified~~ and to pay ~~the price at~~ the agreed price.
+##### 2.2 The seller must bear the costs associated with the increase in the payment of changes in its place of business following the conclusion of the contract. 
 
-***The United Nations Convention on Contracts for the International Sale of Goods*** states that:
-
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The buyer must pay the price and receive the goods in accordance with the terms of the contract and the convention. In terms of payment of the price:
-
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the buyer is not obliged to pay the price at any other place, he must pay the seller the price at:
-
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->seller's place of business, or
-
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->If the price is paid on the basis of the transfer of the goods or documents, the place at which the goods or documents are handed over.
-
-<!--\\[if !supportLists]-->l   <!--\\[endif]-->The seller must bear the costs associated with the increase in the payment of changes in its place of business following the conclusion of the contract. or
+Or
 
 <!--\\[if !supportLists]-->l   <!--\\[endif]-->If the buyer is not obliged to pay the price at any other specified time, he must pay the price when the seller hands over the goods or the documents controlling the disposition of the goods to the buyer in accordance with the contract and this Convention. The seller may pay the price as a condition for the transfer of the goods or documents.
 
