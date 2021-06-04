@@ -17,6 +17,8 @@ header:
       url: "/publications/"
     - label: "Teaching cases"
       url: "/tc/"
+    - label: "works"
+      url: "/category/"
 title: APEC Study Centre
 excerpt: |
   commissioned by [TID, HKGov](https://www.tid.gov.hk/eindex.html) from 2016-2021
